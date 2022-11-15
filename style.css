@@ -1,0 +1,17 @@
+.wrap{
+    display: flex;
+    flex-direction: column;
+}
+.wrap-block{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+}
+.container{
+    height: 300px;
+    width:100%;
+    margin-bottom: 100px;
+}
+.input1,.input2,.input3{
+    margin-right: 10px;
+}
